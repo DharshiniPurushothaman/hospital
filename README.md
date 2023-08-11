@@ -312,7 +312,7 @@
     </div>
     <nav class=" navbar-expand-sm container-fluid bg-light" id="head">
         <div class="container-fluid row" style=" text-align: center;">
-            <img src="https://t3.ftcdn.net/jpg/03/04/90/28/240_F_304902822_RhvrRzzXR15rCfXfIjlNdOd0nwVX1iwI.jpg" alt="logo" style="width: 150px; margin-left: 115px; margin-top: 12px; margin-bottom: 12px;" class="rounded-pill ">
+            <img src="orthos.jpg" alt="logo" style="width: 150px; margin-left: 115px; margin-top: 12px; margin-bottom: 12px;" class="rounded-pill ">
             <h1 class="col p-6" style=" margin-top: 45px; text-align: left;">THE POSH-PONDY ORTHO SPECIALITY HOSPITAL</h1>
         </div>
     </nav>
@@ -342,13 +342,13 @@
         <!-- The slideshow/carousel -->
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="https://static.wixstatic.com/media/dc8146_28e9cebae1074f82a0f74b0451f34ea5~mv2.jpg/v1/fill/w_1349,h_660,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/dc8146_28e9cebae1074f82a0f74b0451f34ea5~mv2.jpg" class="d-block" style="width:100%">
+            <img src="sl2.png" class="d-block" style="width:100%">
           </div>
           <div class="carousel-item">
-            <img src=https://static.wixstatic.com/media/dc8146_8af8d61645b34c90bb32b0b730e2377c~mv2.jpg/v1/fill/w_1349,h_660,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/dc8146_8af8d61645b34c90bb32b0b730e2377c~mv2.jpg" class="d-block" style="width:100%">
+            <img src="sl1.png" class="d-block" style="width:100%">
           </div>
           <div class="carousel-item">
-            <img src="https://smvmch.ac.in/images/Photos/3.jpg" class="d-block" style="width:100%">
+            <img src="sl3.jpg" class="d-block" style="width:100%">
           </div>
         </div>
         
