@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -312,7 +312,7 @@
     </div>
     <nav class=" navbar-expand-sm container-fluid bg-light" id="head">
         <div class="container-fluid row" style=" text-align: center;">
-            <img src="orthos.jpg" alt="logo" style="width: 150px; margin-left: 115px; margin-top: 12px; margin-bottom: 12px;" class="rounded-pill ">
+            <img src="![orthos](https://github.com/DharshiniPurushothaman/hospital/assets/138742238/bc644548-dc5a-435a-a7f7-6f2795c110b2)" alt="logo" style="width: 150px; margin-left: 115px; margin-top: 12px; margin-bottom: 12px;" class="rounded-pill ">
             <h1 class="col p-6" style=" margin-top: 45px; text-align: left;">THE POSH-PONDY ORTHO SPECIALITY HOSPITAL</h1>
         </div>
     </nav>
