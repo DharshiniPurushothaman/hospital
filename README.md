@@ -348,7 +348,7 @@
             <img src="sl1.png" class="d-block" style="width:100%">
           </div>
           <div class="carousel-item">
-            <img src="sl3.jpg" class="d-block" style="width:100%">
+            <img src="sl4.png" class="d-block" style="width:100%">
           </div>
         </div>
         
